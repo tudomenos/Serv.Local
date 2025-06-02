@@ -1,0 +1,7 @@
+Flask==3.1.0
+cryptography==36.0.2
+pandas # Removida a versão específica para permitir que o pip use a versão compatível já instalada ou a mais recente disponível via wheel
+openpyxl==3.1.2
+requests==2.31.0
+Werkzeug>=3.1
+

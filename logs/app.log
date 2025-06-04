@@ -1,0 +1,1143 @@
+2025-06-03 14:02:13,378 - services.database_init - INFO - Iniciando inicialização do banco de dados...
+2025-06-03 14:02:13,379 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,383 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 14:02:13,383 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,383 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 14:02:13,383 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,384 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 14:02:13,384 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,384 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 14:02:13,384 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,385 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 14:02:13,385 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,385 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 14:02:13,385 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,385 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 14:02:13,385 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,386 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,386 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,386 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,386 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,387 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,387 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,387 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,387 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,387 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,387 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,388 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,388 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,388 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,388 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,389 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,389 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,389 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,389 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,389 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,389 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,390 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,390 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,390 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,390 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,391 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,391 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,391 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,391 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,392 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,392 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,392 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,392 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,392 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,393 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,393 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,393 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,393 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,393 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,394 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,394 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,394 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,394 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,394 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,395 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,395 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,395 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,395 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,395 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,396 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,396 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,396 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,396 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,397 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:13,397 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,526 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,527 - services.database_init - INFO - Usuário admin criado com senha padrão
+2025-06-03 14:02:13,527 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,527 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,528 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,528 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,529 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,529 - services.database_init - INFO - Inseridos 4 responsáveis padrão
+2025-06-03 14:02:13,529 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,530 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,530 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,530 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,531 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,531 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,531 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,531 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,531 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,531 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,531 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,531 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,531 - services.database_init - INFO - Configurações padrão inseridas
+2025-06-03 14:02:13,532 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,532 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,532 - services.database_init - INFO - Schema versão 1 aplicada
+2025-06-03 14:02:13,532 - services.database_init - INFO - Banco de dados inicializado com sucesso
+2025-06-03 14:02:13,532 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,533 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,533 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,533 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,533 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,533 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:13,540 - services.database - DEBUG - Nova conexão criada. Total: 11
+2025-06-03 14:02:13,540 - services.database_init - ERROR - Erro ao verificar saúde do banco: generator didn't stop after throw()
+2025-06-03 14:02:13,540 - root - ERROR - Erro na inicialização do banco: 'tables'
+2025-06-03 14:02:13,540 - root - ERROR - Falha na inicialização do banco de dados
+2025-06-03 14:02:35,453 - services.database_init - INFO - Iniciando inicialização do banco de dados...
+2025-06-03 14:02:35,454 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,454 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 14:02:35,454 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,454 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 14:02:35,454 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,454 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 14:02:35,454 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,454 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 14:02:35,454 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,454 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 14:02:35,454 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,454 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 14:02:35,454 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,455 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 14:02:35,455 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,455 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,455 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,455 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,455 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,455 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,455 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,455 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,455 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,455 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,455 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,455 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,455 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,455 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,455 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,455 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,456 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,456 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,456 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,456 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,456 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,456 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,456 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,456 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,456 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,456 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,456 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,456 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,456 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,456 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,457 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,457 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,457 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,457 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,457 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,457 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,457 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,457 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,457 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,457 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,457 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,457 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,457 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,457 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,458 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,458 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,458 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,458 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,458 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,458 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,458 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,458 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,458 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,458 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 14:02:35,458 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,458 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,458 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,458 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,459 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,459 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,459 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,459 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,459 - services.database_init - INFO - Configurações padrão inseridas
+2025-06-03 14:02:35,459 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,459 - services.database_init - INFO - Banco de dados inicializado com sucesso
+2025-06-03 14:02:35,459 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,460 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,460 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,460 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,460 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,460 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 14:02:35,461 - services.database - DEBUG - Nova conexão criada. Total: 11
+2025-06-03 14:02:35,461 - services.database_init - ERROR - Erro ao verificar saúde do banco: generator didn't stop after throw()
+2025-06-03 14:02:35,461 - root - ERROR - Erro na inicialização do banco: 'tables'
+2025-06-03 14:02:35,461 - root - ERROR - Falha na inicialização do banco de dados
+2025-06-03 15:54:35,254 - services.database_init - INFO - Iniciando inicialização do banco de dados...
+2025-06-03 15:54:35,255 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,255 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 15:54:35,255 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,255 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 15:54:35,255 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,256 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 15:54:35,256 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,256 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 15:54:35,256 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,256 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 15:54:35,256 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,256 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 15:54:35,256 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,256 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 15:54:35,256 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,256 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,256 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,256 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,256 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,256 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,256 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,256 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,257 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,257 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,257 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,257 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,257 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,257 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,257 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,257 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,257 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,257 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,257 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,257 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,257 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,257 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,257 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,257 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,257 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,257 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,257 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,258 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,258 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,258 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,258 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,258 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,258 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,258 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,258 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,258 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,258 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,258 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,258 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,258 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,258 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,258 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,258 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,258 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,258 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,259 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,259 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,259 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,259 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,259 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,259 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,259 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,259 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,259 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 15:54:35,259 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,260 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,260 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,260 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,260 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,260 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,260 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,261 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,261 - services.database_init - INFO - Configurações padrão inseridas
+2025-06-03 15:54:35,261 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,261 - services.database_init - INFO - Banco de dados inicializado com sucesso
+2025-06-03 15:54:35,261 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,261 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,261 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,261 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,261 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,262 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 15:54:35,262 - services.database - DEBUG - Nova conexão criada. Total: 11
+2025-06-03 15:54:35,262 - services.database_init - ERROR - Erro ao verificar saúde do banco: generator didn't stop after throw()
+2025-06-03 15:54:35,262 - root - ERROR - Erro na inicialização do banco: 'tables'
+2025-06-03 15:54:35,263 - root - ERROR - Falha na inicialização do banco de dados
+2025-06-03 16:04:42,021 - services.database_init - INFO - Iniciando inicialização do banco de dados...
+2025-06-03 16:04:42,022 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,026 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 16:04:42,026 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,026 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 16:04:42,026 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,027 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 16:04:42,027 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,027 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 16:04:42,027 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,028 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 16:04:42,028 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,028 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 16:04:42,028 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,028 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 16:04:42,029 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,029 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,029 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,029 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,029 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,030 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,030 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,030 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,030 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,030 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,031 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,031 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,031 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,031 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,031 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,032 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,032 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,032 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,032 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,033 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,033 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,033 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,033 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,033 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,033 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,034 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,034 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,034 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,034 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,035 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,035 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,035 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,035 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,035 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,035 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,036 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,036 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,036 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,036 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,037 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,037 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,037 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,037 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,037 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,037 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,038 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,038 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,038 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,038 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,039 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,039 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,039 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,039 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,040 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:04:42,040 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,165 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,166 - services.database_init - INFO - Usuário admin criado com senha padrão
+2025-06-03 16:04:42,166 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,167 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,167 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,168 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,168 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,168 - services.database_init - INFO - Inseridos 4 responsáveis padrão
+2025-06-03 16:04:42,169 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,169 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,169 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,169 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,169 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,169 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,170 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,170 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,170 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,170 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,170 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,170 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,170 - services.database_init - INFO - Configurações padrão inseridas
+2025-06-03 16:04:42,170 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,170 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,171 - services.database_init - INFO - Schema versão 1 aplicada
+2025-06-03 16:04:42,171 - services.database_init - INFO - Banco de dados inicializado com sucesso
+2025-06-03 16:04:42,171 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,171 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,171 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,171 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,171 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,172 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:04:42,179 - services.database - DEBUG - Nova conexão criada. Total: 11
+2025-06-03 16:04:42,179 - services.database_init - ERROR - Erro ao verificar saúde do banco: generator didn't stop after throw()
+2025-06-03 16:04:42,181 - root - ERROR - Erro na inicialização do banco: 'tables'
+2025-06-03 16:04:42,181 - root - ERROR - Falha na inicialização do banco de dados
+2025-06-03 16:25:14,390 - services.database_init - INFO - Iniciando inicialização do banco de dados...
+2025-06-03 16:25:14,390 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,390 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 16:25:14,390 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,390 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 16:25:14,390 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,390 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 16:25:14,390 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,391 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 16:25:14,391 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,391 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 16:25:14,391 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,391 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 16:25:14,391 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,391 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 16:25:14,391 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,391 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,391 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,391 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,391 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,391 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,391 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,392 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,392 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,392 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,392 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,392 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,392 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,392 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,392 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,392 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,392 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,392 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,392 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,392 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,392 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,392 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,392 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,393 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,393 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,393 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,393 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,393 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,393 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,393 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,393 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,393 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,393 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,393 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,393 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,393 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,393 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,393 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,393 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,393 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,394 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,394 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,394 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,394 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,394 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,394 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,394 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,394 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,394 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,394 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,394 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,394 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,394 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,394 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 16:25:14,394 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,394 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,395 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,395 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,395 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,395 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,395 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,395 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,395 - services.database_init - INFO - Configurações padrão inseridas
+2025-06-03 16:25:14,395 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,395 - services.database_init - INFO - Banco de dados inicializado com sucesso
+2025-06-03 16:25:14,396 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,396 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,396 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,396 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,396 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,397 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 16:25:14,398 - services.database - DEBUG - Nova conexão criada. Total: 11
+2025-06-03 16:25:14,398 - services.database_init - ERROR - Erro ao verificar saúde do banco: generator didn't stop after throw()
+2025-06-03 16:25:14,398 - root - ERROR - Erro na inicialização do banco: 'tables'
+2025-06-03 16:25:14,398 - root - ERROR - Falha na inicialização do banco de dados
+2025-06-03 17:23:26,499 - services.database_init - INFO - Iniciando inicialização do banco de dados...
+2025-06-03 17:23:26,499 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,499 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:23:26,499 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,500 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:23:26,500 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,500 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:23:26,500 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,500 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:23:26,500 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,500 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:23:26,500 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,500 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:23:26,500 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,500 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:23:26,500 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,501 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,501 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,501 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,501 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,501 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,501 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,501 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,501 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,501 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,501 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,501 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,501 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,501 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,501 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,501 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,501 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,501 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,501 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,502 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,502 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,502 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,502 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,502 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,502 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,502 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,502 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,502 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,502 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,502 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,502 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,502 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,502 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,502 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,502 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,502 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,502 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,503 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,503 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,503 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,503 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,503 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,503 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,503 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,503 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,503 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,503 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,503 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,503 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,503 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,503 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,503 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,503 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,503 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,503 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,504 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,504 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,504 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,504 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,504 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,504 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,504 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,504 - services.database_init - INFO - Configurações padrão inseridas
+2025-06-03 17:23:26,505 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,505 - services.database_init - INFO - Banco de dados inicializado com sucesso
+2025-06-03 17:23:26,505 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,505 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,505 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,505 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,506 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,506 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,507 - services.database - DEBUG - Nova conexão criada. Total: 11
+2025-06-03 17:23:26,507 - services.database_init - ERROR - Erro ao verificar saúde do banco: generator didn't stop after throw()
+2025-06-03 17:23:26,507 - root - INFO - Verificação de saúde do banco concluída. Status: error - Erro na verificação: generator didn't stop after throw()
+2025-06-03 17:23:26,508 - services.backup - INFO - Backup automático iniciado (intervalo: 1h)
+2025-06-03 17:23:26,512 - root - INFO - Aplicação inicializada - Modo: DEBUG
+2025-06-03 17:23:26,943 - services.database_init - INFO - Iniciando inicialização do banco de dados...
+2025-06-03 17:23:26,944 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,944 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:23:26,944 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,944 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:23:26,944 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,944 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:23:26,944 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,944 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:23:26,944 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,944 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:23:26,944 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,945 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:23:26,945 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,945 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:23:26,945 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,945 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,945 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,945 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,945 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,945 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,945 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,945 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,945 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,945 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,945 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,945 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,946 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,946 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,946 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,946 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,946 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,946 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,946 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,946 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,946 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,946 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,946 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,946 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,946 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,946 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,946 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,946 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,946 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,947 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,947 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,947 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,947 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,947 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,947 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,947 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,947 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,947 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,947 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,947 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,947 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,947 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,947 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,947 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,947 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,947 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,947 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,947 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,948 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,948 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,948 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,948 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,948 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,948 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:23:26,948 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,948 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,948 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,948 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,948 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,948 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,949 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,949 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,949 - services.database_init - INFO - Configurações padrão inseridas
+2025-06-03 17:23:26,949 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,949 - services.database_init - INFO - Banco de dados inicializado com sucesso
+2025-06-03 17:23:26,949 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,950 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,950 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,950 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,950 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,950 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:23:26,951 - services.database - DEBUG - Nova conexão criada. Total: 11
+2025-06-03 17:23:26,951 - services.database_init - ERROR - Erro ao verificar saúde do banco: generator didn't stop after throw()
+2025-06-03 17:23:26,951 - root - INFO - Verificação de saúde do banco concluída. Status: error - Erro na verificação: generator didn't stop after throw()
+2025-06-03 17:23:26,952 - services.backup - INFO - Backup automático iniciado (intervalo: 1h)
+2025-06-03 17:23:26,956 - root - INFO - Aplicação inicializada - Modo: DEBUG
+2025-06-03 17:23:26,978 - werkzeug - WARNING -  * Debugger is active!
+2025-06-03 17:49:33,967 - services.database_init - INFO - Iniciando inicialização do banco de dados...
+2025-06-03 17:49:33,968 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,968 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:49:33,968 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,968 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:49:33,968 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,968 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:49:33,968 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,968 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:49:33,968 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,968 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:49:33,968 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,968 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:49:33,968 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,969 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:49:33,969 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,969 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,969 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,969 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,969 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,969 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,969 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,969 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,969 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,969 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,969 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,969 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,969 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,969 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,969 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,970 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,970 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,970 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,970 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,970 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,970 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,970 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,970 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,970 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,970 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,970 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,970 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,970 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,970 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,970 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,970 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,970 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,970 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,970 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,971 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,971 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,971 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,971 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,971 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,971 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,971 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,971 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,971 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,971 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,971 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,971 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,971 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,971 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,971 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,971 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,971 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,971 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,971 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,972 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:33,972 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,972 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,972 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,972 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,972 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,972 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,972 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,972 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,973 - services.database_init - INFO - Configurações padrão inseridas
+2025-06-03 17:49:33,973 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,973 - services.database_init - INFO - Banco de dados inicializado com sucesso
+2025-06-03 17:49:33,973 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,973 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,974 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,974 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,974 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,974 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:33,975 - services.database - DEBUG - Nova conexão criada. Total: 11
+2025-06-03 17:49:33,975 - services.database_init - ERROR - Erro ao verificar saúde do banco: generator didn't stop after throw()
+2025-06-03 17:49:33,975 - root - INFO - Verificação de saúde do banco concluída. Status: error - Erro na verificação: generator didn't stop after throw()
+2025-06-03 17:49:33,977 - services.backup - INFO - Backup automático iniciado (intervalo: 1h)
+2025-06-03 17:49:33,981 - root - INFO - Aplicação inicializada - Modo: DEBUG
+2025-06-03 17:49:34,297 - services.database_init - INFO - Iniciando inicialização do banco de dados...
+2025-06-03 17:49:34,297 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,297 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:49:34,297 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,297 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:49:34,297 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,297 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:49:34,297 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,297 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:49:34,297 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,298 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:49:34,298 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,298 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:49:34,298 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,298 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:49:34,298 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,298 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,298 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,298 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,298 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,298 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,298 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,298 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,298 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,298 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,299 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,299 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,299 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,299 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,299 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,299 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,299 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,299 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,299 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,299 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,299 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,299 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,299 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,299 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,299 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,299 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,299 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,299 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,300 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,300 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,300 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,300 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,300 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,300 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,300 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,300 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,300 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,300 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,300 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,300 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,300 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,300 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,300 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,300 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,300 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,301 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,301 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,301 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,301 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,301 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,301 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,301 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,301 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,301 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:49:34,301 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,301 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,301 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,301 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,301 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,301 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,302 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,302 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,302 - services.database_init - INFO - Configurações padrão inseridas
+2025-06-03 17:49:34,302 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,302 - services.database_init - INFO - Banco de dados inicializado com sucesso
+2025-06-03 17:49:34,302 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,303 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,303 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,303 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,303 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,303 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:49:34,304 - services.database - DEBUG - Nova conexão criada. Total: 11
+2025-06-03 17:49:34,304 - services.database_init - ERROR - Erro ao verificar saúde do banco: generator didn't stop after throw()
+2025-06-03 17:49:34,304 - root - INFO - Verificação de saúde do banco concluída. Status: error - Erro na verificação: generator didn't stop after throw()
+2025-06-03 17:49:34,306 - services.backup - INFO - Backup automático iniciado (intervalo: 1h)
+2025-06-03 17:49:34,309 - root - INFO - Aplicação inicializada - Modo: DEBUG
+2025-06-03 17:49:34,330 - werkzeug - WARNING -  * Debugger is active!
+2025-06-03 17:55:32,374 - services.database_init - INFO - Iniciando inicialização do banco de dados...
+2025-06-03 17:55:32,374 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,374 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:55:32,374 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,375 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:55:32,375 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,375 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:55:32,375 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,375 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:55:32,375 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,375 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:55:32,375 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,375 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:55:32,375 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,375 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:55:32,375 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,375 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,375 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,376 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,376 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,376 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,376 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,376 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,376 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,376 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,376 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,376 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,376 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,376 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,376 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,376 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,376 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,376 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,376 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,376 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,377 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,377 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,377 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,377 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,377 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,377 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,377 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,377 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,377 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,377 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,377 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,377 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,377 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,377 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,377 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,377 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,377 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,378 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,378 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,378 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,378 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,378 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,378 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,378 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,378 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,378 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,378 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,378 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,378 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,378 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,378 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,378 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,378 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,378 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,378 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,379 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,379 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,379 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,379 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,379 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,379 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,379 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,379 - services.database_init - INFO - Configurações padrão inseridas
+2025-06-03 17:55:32,379 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,380 - services.database_init - INFO - Banco de dados inicializado com sucesso
+2025-06-03 17:55:32,380 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,380 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,380 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,380 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,380 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,380 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,381 - services.database - DEBUG - Nova conexão criada. Total: 11
+2025-06-03 17:55:32,381 - services.database_init - ERROR - Erro ao verificar saúde do banco: generator didn't stop after throw()
+2025-06-03 17:55:32,381 - root - INFO - Verificação de saúde do banco concluída. Status: error - Erro na verificação: generator didn't stop after throw()
+2025-06-03 17:55:32,383 - services.backup - INFO - Backup automático iniciado (intervalo: 1h)
+2025-06-03 17:55:32,386 - root - INFO - Aplicação inicializada - Modo: DEBUG
+2025-06-03 17:55:32,718 - services.database_init - INFO - Iniciando inicialização do banco de dados...
+2025-06-03 17:55:32,718 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,718 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:55:32,718 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,718 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:55:32,718 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,718 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:55:32,718 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,719 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:55:32,719 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,719 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:55:32,719 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,719 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:55:32,719 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,719 - services.database_init - DEBUG - Tabela criada/verificada
+2025-06-03 17:55:32,719 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,719 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,719 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,719 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,719 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,719 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,719 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,719 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,720 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,720 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,720 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,720 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,720 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,720 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,720 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,720 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,720 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,720 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,720 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,720 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,720 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,720 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,720 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,720 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,720 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,721 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,721 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,721 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,721 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,721 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,721 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,721 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,721 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,721 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,721 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,721 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,721 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,721 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,721 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,722 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,722 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,722 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,722 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,722 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,722 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,722 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,722 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,722 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,722 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,722 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,722 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,722 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,722 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,722 - services.database_init - DEBUG - Índice criado/verificado
+2025-06-03 17:55:32,722 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,722 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,723 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,723 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,723 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,723 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,723 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,723 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,723 - services.database_init - INFO - Configurações padrão inseridas
+2025-06-03 17:55:32,723 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,723 - services.database_init - INFO - Banco de dados inicializado com sucesso
+2025-06-03 17:55:32,724 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,724 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,724 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,724 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,724 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,724 - services.database - DEBUG - Conexão obtida do pool
+2025-06-03 17:55:32,725 - services.database - DEBUG - Nova conexão criada. Total: 11
+2025-06-03 17:55:32,725 - services.database_init - ERROR - Erro ao verificar saúde do banco: generator didn't stop after throw()
+2025-06-03 17:55:32,725 - root - INFO - Verificação de saúde do banco concluída. Status: error - Erro na verificação: generator didn't stop after throw()
+2025-06-03 17:55:32,727 - services.backup - INFO - Backup automático iniciado (intervalo: 1h)
+2025-06-03 17:55:32,730 - root - INFO - Aplicação inicializada - Modo: DEBUG
+2025-06-03 17:55:32,751 - werkzeug - WARNING -  * Debugger is active!
+2025-06-03 18:55:32,401 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-03 18:55:32,402 - services.backup - INFO - Iniciando backup: backup_20250603_185532
+2025-06-03 18:55:32,442 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250603_185532.db'
+2025-06-03 18:55:32,443 - services.backup - ERROR - Falha no backup automático
+2025-06-03 18:55:32,745 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-03 18:55:32,745 - services.backup - INFO - Iniciando backup: backup_20250603_185532
+2025-06-03 18:55:32,777 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250603_185532.db'
+2025-06-03 18:55:32,777 - services.backup - ERROR - Falha no backup automático
+2025-06-03 19:55:32,462 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-03 19:55:32,463 - services.backup - INFO - Iniciando backup: backup_20250603_195532
+2025-06-03 19:55:32,507 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250603_195532.db'
+2025-06-03 19:55:32,507 - services.backup - ERROR - Falha no backup automático
+2025-06-03 19:55:32,795 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-03 19:55:32,796 - services.backup - INFO - Iniciando backup: backup_20250603_195532
+2025-06-03 19:55:32,826 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250603_195532.db'
+2025-06-03 19:55:32,827 - services.backup - ERROR - Falha no backup automático
+2025-06-03 20:55:32,528 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-03 20:55:32,528 - services.backup - INFO - Iniciando backup: backup_20250603_205532
+2025-06-03 20:55:32,575 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250603_205532.db'
+2025-06-03 20:55:32,575 - services.backup - ERROR - Falha no backup automático
+2025-06-03 20:55:32,846 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-03 20:55:32,847 - services.backup - INFO - Iniciando backup: backup_20250603_205532
+2025-06-03 20:55:32,876 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250603_205532.db'
+2025-06-03 20:55:32,877 - services.backup - ERROR - Falha no backup automático
+2025-06-03 21:55:32,594 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-03 21:55:32,594 - services.backup - INFO - Iniciando backup: backup_20250603_215532
+2025-06-03 21:55:32,639 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250603_215532.db'
+2025-06-03 21:55:32,640 - services.backup - ERROR - Falha no backup automático
+2025-06-03 21:55:32,893 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-03 21:55:32,893 - services.backup - INFO - Iniciando backup: backup_20250603_215532
+2025-06-03 21:55:32,923 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250603_215532.db'
+2025-06-03 21:55:32,924 - services.backup - ERROR - Falha no backup automático
+2025-06-03 22:55:32,661 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-03 22:55:32,661 - services.backup - INFO - Iniciando backup: backup_20250603_225532
+2025-06-03 22:55:32,700 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250603_225532.db'
+2025-06-03 22:55:32,701 - services.backup - ERROR - Falha no backup automático
+2025-06-03 22:55:32,944 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-03 22:55:32,944 - services.backup - INFO - Iniciando backup: backup_20250603_225532
+2025-06-03 22:55:32,974 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250603_225532.db'
+2025-06-03 22:55:32,975 - services.backup - ERROR - Falha no backup automático
+2025-06-03 23:55:32,720 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-03 23:55:32,721 - services.backup - INFO - Iniciando backup: backup_20250603_235532
+2025-06-03 23:55:32,768 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250603_235532.db'
+2025-06-03 23:55:32,768 - services.backup - ERROR - Falha no backup automático
+2025-06-03 23:55:32,992 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-03 23:55:32,993 - services.backup - INFO - Iniciando backup: backup_20250603_235532
+2025-06-03 23:55:33,022 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250603_235532.db'
+2025-06-03 23:55:33,023 - services.backup - ERROR - Falha no backup automático
+2025-06-04 00:55:32,787 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-04 00:55:32,787 - services.backup - INFO - Iniciando backup: backup_20250604_005532
+2025-06-04 00:55:32,828 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250604_005532.db'
+2025-06-04 00:55:32,828 - services.backup - ERROR - Falha no backup automático
+2025-06-04 00:55:33,039 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-04 00:55:33,039 - services.backup - INFO - Iniciando backup: backup_20250604_005533
+2025-06-04 00:55:33,075 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250604_005533.db'
+2025-06-04 00:55:33,076 - services.backup - ERROR - Falha no backup automático
+2025-06-04 01:55:32,847 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-04 01:55:32,848 - services.backup - INFO - Iniciando backup: backup_20250604_015532
+2025-06-04 01:55:32,884 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250604_015532.db'
+2025-06-04 01:55:32,884 - services.backup - ERROR - Falha no backup automático
+2025-06-04 01:55:33,091 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-04 01:55:33,091 - services.backup - INFO - Iniciando backup: backup_20250604_015533
+2025-06-04 01:55:33,126 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250604_015533.db'
+2025-06-04 01:55:33,127 - services.backup - ERROR - Falha no backup automático
+2025-06-04 02:00:32,886 - schedule - DEBUG - Running job Job(interval=1, unit=days, do=cleanup_old_backups, args=(), kwargs={})
+2025-06-04 02:00:33,130 - schedule - DEBUG - Running job Job(interval=1, unit=days, do=cleanup_old_backups, args=(), kwargs={})
+2025-06-04 02:55:32,905 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-04 02:55:32,906 - services.backup - INFO - Iniciando backup: backup_20250604_025532
+2025-06-04 02:55:32,942 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250604_025532.db'
+2025-06-04 02:55:32,943 - services.backup - ERROR - Falha no backup automático
+2025-06-04 02:55:33,148 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-04 02:55:33,149 - services.backup - INFO - Iniciando backup: backup_20250604_025533
+2025-06-04 02:55:33,184 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250604_025533.db'
+2025-06-04 02:55:33,185 - services.backup - ERROR - Falha no backup automático
+2025-06-04 03:55:32,960 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-04 03:55:32,961 - services.backup - INFO - Iniciando backup: backup_20250604_035532
+2025-06-04 03:55:32,999 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250604_035532.db'
+2025-06-04 03:55:32,999 - services.backup - ERROR - Falha no backup automático
+2025-06-04 03:55:33,205 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-04 03:55:33,205 - services.backup - INFO - Iniciando backup: backup_20250604_035533
+2025-06-04 03:55:33,241 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250604_035533.db'
+2025-06-04 03:55:33,241 - services.backup - ERROR - Falha no backup automático
+2025-06-04 04:55:33,019 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-04 04:55:33,020 - services.backup - INFO - Iniciando backup: backup_20250604_045533
+2025-06-04 04:55:33,060 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250604_045533.db'
+2025-06-04 04:55:33,060 - services.backup - ERROR - Falha no backup automático
+2025-06-04 04:55:33,261 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-04 04:55:33,262 - services.backup - INFO - Iniciando backup: backup_20250604_045533
+2025-06-04 04:55:33,293 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250604_045533.db'
+2025-06-04 04:55:33,294 - services.backup - ERROR - Falha no backup automático
+2025-06-04 05:55:33,080 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-04 05:55:33,081 - services.backup - INFO - Iniciando backup: backup_20250604_055533
+2025-06-04 05:55:33,127 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250604_055533.db'
+2025-06-04 05:55:33,128 - services.backup - ERROR - Falha no backup automático
+2025-06-04 05:55:33,312 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-04 05:55:33,313 - services.backup - INFO - Iniciando backup: backup_20250604_055533
+2025-06-04 05:55:33,337 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250604_055533.db'
+2025-06-04 05:55:33,337 - services.backup - ERROR - Falha no backup automático
+2025-06-04 06:55:33,147 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-04 06:55:33,148 - services.backup - INFO - Iniciando backup: backup_20250604_065533
+2025-06-04 06:55:33,181 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250604_065533.db'
+2025-06-04 06:55:33,182 - services.backup - ERROR - Falha no backup automático
+2025-06-04 06:55:33,354 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-04 06:55:33,354 - services.backup - INFO - Iniciando backup: backup_20250604_065533
+2025-06-04 06:55:33,384 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250604_065533.db'
+2025-06-04 06:55:33,385 - services.backup - ERROR - Falha no backup automático
+2025-06-04 07:55:33,202 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-04 07:55:33,202 - services.backup - INFO - Iniciando backup: backup_20250604_075533
+2025-06-04 07:55:33,247 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250604_075533.db'
+2025-06-04 07:55:33,248 - services.backup - ERROR - Falha no backup automático
+2025-06-04 07:55:33,403 - schedule - DEBUG - Running job Job(interval=1, unit=hours, do=_scheduled_backup, args=(), kwargs={})
+2025-06-04 07:55:33,403 - services.backup - INFO - Iniciando backup: backup_20250604_075533
+2025-06-04 07:55:33,433 - services.backup - ERROR - Erro ao criar backup: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\System\\sistema\\backups\\backup_20250604_075533.db'
+2025-06-04 07:55:33,433 - services.backup - ERROR - Falha no backup automático

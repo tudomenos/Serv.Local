@@ -1,7 +1,15 @@
 Flask==3.1.0
-cryptography==36.0.2
-pandas # Removida a versão específica para permitir que o pip use a versão compatível já instalada ou a mais recente disponível via wheel
+cryptography==43.0.1
+pandas==2.2.2
 openpyxl==3.1.2
 requests==2.31.0
-Werkzeug>=3.1
+Werkzeug==3.1.0
+schedule==1.2.0
+python-dotenv==1.0.0
+
+# Dependências para desenvolvimento (opcional)
+pytest==8.2.2
+pytest-cov==5.0.0
+black==24.4.2
+flake8==7.1.0
 
